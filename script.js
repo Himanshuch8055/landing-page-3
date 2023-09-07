@@ -3,7 +3,7 @@ const tl = gsap.timeline({
         trigger: '#background',
         start: 'top top',
         scrub: 2,
-        markers: true
+        // markers: true
     }
 });
 
