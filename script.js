@@ -2,8 +2,7 @@ const tl = gsap.timeline({
     scrollTrigger: {
         trigger: '#background',
         start: 'top top',
-        scrub: 2,
-        // markers: true
+        scrub: 2
     }
 });
 
